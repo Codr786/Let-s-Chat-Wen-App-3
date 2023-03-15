@@ -1,0 +1,32 @@
+body{
+    scroll-behavior: smooth;
+}
+#input1{
+    height: 40px;
+    width: 320px;
+}
+#main{
+    margin-left:920;
+    margin-bottom: -100;
+    border-color:darkcyan;
+    border-style: ridge;
+    border-color: darkgray;
+}
+
+#login_button{
+    margin-left: 1300;
+    margin-top:-400 ;
+}
+#img2{
+    text-align: right;
+    margin-left: -880;
+    margin-top: -400;
+}
+#img1{
+    margin-left:862;
+    margin-top: -810;
+
+}
+#img3{
+    margin-right: 50;;
+}
